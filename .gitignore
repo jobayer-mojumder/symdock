@@ -5,3 +5,4 @@
 # IDE setting
 ## PhpStorm
 .idea
+.DS_Store
